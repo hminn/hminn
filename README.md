@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&height=200&section=header&text=hminn's%20Github🌱&fontSize=50&fontAlign=75&fontAlignY=30)
 <!--
 **hminn/hminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
