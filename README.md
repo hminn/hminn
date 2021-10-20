@@ -1,7 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18&reversal=true&height=200&section=header&text=hminn's%20Github🌱&fontSize=50&fontAlign=75&fontAlignY=30)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hminn&show_icons=true&theme=nord)](https://github.com/hminn/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18&reversal=true&height=150&section=header&text=hminn's%20Github🌱&fontSize=40&fontAlign=75&fontAlignY=30)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hminn&show_icons=true&theme=nord" />
+</a>
 
 <h3 align="center"> 💻 Tech Stack </h3>
 <p align="center">
