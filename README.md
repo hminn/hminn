@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18&reversal=true&height=150&section=header&text=hminn's%20Github🌱&fontSize=40&fontAlign=75&fontAlignY=30)
 
 <a href="https://github.com/hminn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hminn&show_icons=true&theme=nord" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hminn&show_icons=true&theme=nord" />
 </a>
 
 <h3 align="center"> 💻 Tech Stack </h3>
